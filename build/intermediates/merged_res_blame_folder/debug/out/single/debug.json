@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/layout_activity_guard.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/layout/activity_guard.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/drawable_nav_item_color.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/drawable/nav_item_color.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/layout_fragment_guard.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/layout/fragment_guard.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/drawable_profile_24.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/drawable/profile_24.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/drawable-v24_help.png.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/drawable-v24/help.png"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myfamily.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.myfamily.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/layout_activity_home.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/drawable-v24_user.png.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/drawable-v24/user.png"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/drawable_home_24.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/drawable/home_24.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myfamily.app-merged_res-29:/layout_fragment_home.xml.flat",
+        "source": "com.example.myfamily.app-main-31:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/drawable_guard_24.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/drawable/guard_24.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/drawable_dashboard_24.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/drawable/dashboard_24.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/drawable-v24_guard.png.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/drawable-v24/guard.png"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-merged_res-29:/menu_bottom_bar_items.xml.flat",
+        "source": "/Users/deepanshusingh/.gradle/daemon/7.4/com.example.myfamily.app-main-31:/menu/bottom_bar_items.xml"
+    }
+]
